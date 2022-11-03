@@ -1,0 +1,16 @@
+D:\Repos\DKrypt1337\GitHub_Scanner\GitHubScanner\GitHubScanner\bin\Debug\GitHubScanner.exe.config
+D:\Repos\DKrypt1337\GitHub_Scanner\GitHubScanner\GitHubScanner\bin\Debug\GitHubScanner.exe
+D:\Repos\DKrypt1337\GitHub_Scanner\GitHubScanner\GitHubScanner\bin\Debug\GitHubScanner.pdb
+D:\Repos\DKrypt1337\GitHub_Scanner\GitHubScanner\GitHubScanner\obj\Debug\GitHubScanner.csproj.AssemblyReference.cache
+D:\Repos\DKrypt1337\GitHub_Scanner\GitHubScanner\GitHubScanner\obj\Debug\GitHubScanner.csproj.SuggestedBindingRedirects.cache
+D:\Repos\DKrypt1337\GitHub_Scanner\GitHubScanner\GitHubScanner\obj\Debug\GitHubScanner.Properties.Resources.resources
+D:\Repos\DKrypt1337\GitHub_Scanner\GitHubScanner\GitHubScanner\obj\Debug\GitHubScanner.csproj.GenerateResource.cache
+D:\Repos\DKrypt1337\GitHub_Scanner\GitHubScanner\GitHubScanner\obj\Debug\GitHubScanner.csproj.CoreCompileInputs.cache
+D:\Repos\DKrypt1337\GitHub_Scanner\GitHubScanner\GitHubScanner\obj\Debug\GitHubScanner.exe
+D:\Repos\DKrypt1337\GitHub_Scanner\GitHubScanner\GitHubScanner\obj\Debug\GitHubScanner.pdb
+D:\Repos\DKrypt1337\GitHub_Scanner\GitHubScanner\GitHubScanner\obj\Debug\GitHubScanner.frmMain.resources
+D:\Repos\DKrypt1337\GitHub_Scanner\GitHubScanner\GitHubScanner\bin\Debug\Newtonsoft.Json.dll
+D:\Repos\DKrypt1337\GitHub_Scanner\GitHubScanner\GitHubScanner\bin\Debug\System.Net.Http.Formatting.dll
+D:\Repos\DKrypt1337\GitHub_Scanner\GitHubScanner\GitHubScanner\bin\Debug\Newtonsoft.Json.xml
+D:\Repos\DKrypt1337\GitHub_Scanner\GitHubScanner\GitHubScanner\bin\Debug\System.Net.Http.Formatting.xml
+D:\Repos\DKrypt1337\GitHub_Scanner\GitHubScanner\GitHubScanner\obj\Debug\GitHubScanner.csproj.CopyComplete
